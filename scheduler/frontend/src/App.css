@@ -1,0 +1,67 @@
+.availabilityResults {
+    margin-top: 3em
+}
+
+.homepageResults {
+    margin-top: 3em;
+}
+
+#profile-pic {
+    max-width: 500px;
+}
+
+#user-bio {
+    height: 10em;
+}
+
+.displayCard {
+    margin: 1em;
+    
+}
+
+.service {
+    max-height: 350px;
+    height: 350px;
+}
+
+.service-img {
+    width:320px;
+    height:200px;
+    object-fit:cover;
+}
+
+#profile-pic {
+    width: 100%
+}
+
+#profile-form {
+    padding-left: 1em
+}
+
+#profile-sessions {
+    margin-top: 2em
+}
+
+.availability-provider-pic {
+    width:100px;
+    height:100px;
+    object-fit:cover
+}
+
+.availability-record {
+    margin-top: 1em;
+}
+
+.dynamicButton {
+    margin-left: 1em;
+}
+
+.provider-img {
+    width:320px;
+    height:320px;
+    object-fit:cover;
+}
+
+.subQuestion {
+    color:rgb(72, 72, 72)
+}
